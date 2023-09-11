@@ -1,0 +1,18 @@
+CHAPTER I
+Thinking Rationally: Laws of Thought
+- normative (or prescriptive) rather than descriptice
+- Rational Behavior: doing the right thing 
+- the right thing: that which is exprected to maximize goal achievment, given the availible information
+- doesnt nessisarily involve thinking 
+Rational Agents:
+- an agent is an entity that percieves and acts
+- course is about designing rational Agents
+- Abstractly, an agent is a function from percept histories or actions 
+- For any given class of enviroments and tasks, we seek the agent(s) w/ best performance
+- Caveat: computational limitations make perfect rationality unachievable
+
+CHAPTER II 
+- PEAS: (Performance measure, Environment, Actuators, Sensors)
+Agents and enviroments
+- Agents include humans, robots, softbots, thermostats, etc.
+- The agent 
